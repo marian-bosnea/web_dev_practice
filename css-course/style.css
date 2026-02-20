@@ -1,0 +1,17 @@
+body {
+    font-family: 'Outfit', Verdana, sans-serif;
+    background-color: lightblue;
+}
+
+h1:hover {
+    opacity: .5;
+}
+
+h1 {
+    color: black;
+    background-color: blanchedalmond;
+    font-weight: 800;
+    padding: 28px;
+    border: 4px solid black;
+    border-radius: 16px;
+}
